@@ -11,7 +11,7 @@ Hacktoberfest es un festival virtual donde se celebra las contribuciones a proye
 Durante todo el mes de octubre del 2020, todo lo que tiene que hacer es contribuir a cualquier proyecto de código abierto y abrir al menos 4 PR. Sí, puedes contribuir a cualquier proyecto.
 
 ## ¿Como participar?
-0. ### Regístrate en la pagina del HacktoberFest
+0. ### Regístrate en la página del HacktoberFest
    [Hacktober Fest](https://hacktoberfest.digitalocean.com/)
 
 1. ### Fork del repositorio.
